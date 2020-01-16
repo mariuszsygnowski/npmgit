@@ -1,0 +1,4 @@
+# .npmignore
+*.json
+
+/src
